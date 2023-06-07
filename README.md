@@ -11,7 +11,7 @@ This repository is a collection of some of my key learnings during my Thrive app
 ## Portfolio Introduction
 - Who you are
 
-I am an individual who embraces self-discovery and personal growth. Each day, I awaken with a commitment to understanding my own identity and purpose. Driven by curiosity and a desire for self-improvement, I strive to uncover the depths of my potential and cultivate a fulfilling life. Guided by introspection and an open mind, I navigate through experiences, challenges, and opportunities, constantly learning and evolving along the way. With an innate inclination to explore and embrace my authentic self, I embark on a continuous journey of self-discovery.
+I am individual who believes in the power of self-discovery and personal growth. Every day, I wake up with a determination to understand who I am and what my purpose is. Fueled by curiosity and a drive to become better, I seek to unlock my full potential and create a meaningful life. Through reflection and an open mindset, I navigate through experiences, challenges, and opportunities, constantly learning and evolving. With a natural inclination to explore and embrace my true self, I embark on an ongoing journey of self-discovery.
 
 - Why you do what you do
 
