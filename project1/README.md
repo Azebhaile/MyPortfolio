@@ -27,6 +27,7 @@ Give a high-level overview of the project purpose
 
 ## Technologies
 - List all technologies and versions here
+
 ✨ React: The JavaScript library used for building the user interface.
 ✨ React Router: A routing library for declarative routing and rendering of different components based on URL paths.
 ✨ React Bootstrap: A library of pre-styled and responsive UI components for React applications.
@@ -39,6 +40,7 @@ Give a high-level overview of the project purpose
 ✨ TMDB API: The application interacts with the TMDB (The Movie Database) API to fetch movie data.
 
 - Include dependencies and versions
+
 ✨ react: version X.X.X
 ✨ react-dom: version X.X.X
 ✨ react-router-dom: version X.X.X
