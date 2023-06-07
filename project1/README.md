@@ -2,19 +2,26 @@
 
 Give a high-level overview of the project purpose
 - (*Situation*) Describe the application and why you created this program
- ✨ ✨ ✨ The Movies application is designed to provide users with a platform to explore and discover movies. The purpose of this project is to create a user-friendly web application that allows users to search for movies, view their details, and switch between light and dark themes for a personalized experience.
+
+ ✨ ✨ ✨ The Movies application is designed to provide users with a platform to explore and discover movies. The purpose of this project is to create a user-friendly web application that allows users to    search for movies, view their details, and switch between light and dark themes for a personalized experience.
 
 - (*Task*) Describe the overall structure of your application and the design process prior to building the program
+
+
 ✨ ✨ ✨ The overall structure of the application follows a React-based architecture. Before building the program, the design process involved planning the user interface, including the home page, Movie Details page, and Navigation menu. The goal was to create a visually appealing and intuitive interface that allows users to easily search for movies and navigate through the application.
 
 - (*Action*) Explain the code you wrote to achieve your desired result
+
+
 ✨ ✨ ✨  The code written for the application utilizes React components, including functional components and hooks such as useState and useEffect. Axios is used for making HTTP requests to fetch movie data from the TMDB API. React Router is employed for handling routing and rendering different components based on the URL path. The design is implemented using the React Bootstrap library, providing responsive and pre-styled components.
 
 - (*Result*) Showcase your final application with its functionality
+
+
 ✨ ✨ ✨  The final application consists of a Home page that displays a movie list and a search bar for filtering movies. Clicking on a movie card opens the Movie Details page, showcasing additional information about the selected movie. Users can toggle between light and dark themes using the theme switch. The Navigation menu allows easy navigation between sections of the app. The application provides an engaging and user-friendly experience for movie exploration.
 
 - Include relevant screenshots
-✨ ✨ ✨ 
+- ????
 
 
 
@@ -25,9 +32,9 @@ Give a high-level overview of the project purpose
 ✨ React Bootstrap: A library of pre-styled and responsive UI components for React applications.
 ✨ axios: A popular HTTP client used for making API requests.
 ✨ react-router-dom: A package that provides DOM bindings for React Router.
-react-bootstrap: The Bootstrap library adapted for React, used for styling and layout of components.
+     react-bootstrap: The Bootstrap library adapted for React, used for styling and layout of components.
 ✨ Node.js: A JavaScript runtime environment used for running the application server.
-npm: The package manager for Node.js, used for installing and managing project dependencies.
+     npm: The package manager for Node.js, used for installing and managing project dependencies.
 ✨ Visual Studio Code: A source code editor used for writing and editing the application code.
 ✨ TMDB API: The application interacts with the TMDB (The Movie Database) API to fetch movie data.
 
@@ -41,8 +48,10 @@ npm: The package manager for Node.js, used for installing and managing project d
 
 - Note any deployment tools as well
 ✨ Netlify
+
 ## Competencies
 ### JF XX.XX
+
 - List the full text of the job function first
 
 ✨✨ JOB FUNCTION 2: Take a business or user problem, 
