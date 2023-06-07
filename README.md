@@ -20,7 +20,7 @@ My passion for technology stems from its power to shape and improve the world ar
 
 - The teams you have worked on
 
-Throughout my apprenticeship program, I had the privilege of working alongside multiple teams, including incuding The Reel Girls, The Wizards Council, and 
+Throughout my apprenticeship program, I had the privilege of working alongside multiple teams, including, The Wizards Council, The Reel Girls and ........???
 
 - Your areas of interest
 
