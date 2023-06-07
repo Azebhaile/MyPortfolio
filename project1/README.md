@@ -106,7 +106,7 @@ Give a high-level overview of the project purpose
     Integrated the TMDB API into the backend codebase, leveraging the appropriate programming language and frameworks (e.g., Node.js, Express) to handle API requests.
     Implemented API endpoints that corresponded to the required functionalities of the Movie App, such as retrieving movie details, searching for movies, and fetching movie images. Configured API                authentication mechanisms, such as obtaining API keys and securely storing them within the backend application.
 
-✨✨ Handling API Requests and Responses:
+✨ Handling API Requests and Responses:
 
      Developed code logic to handle incoming API requests, validating parameters, and ensuring proper error handling in case of invalid requests or API failures.
      Processed the responses from the TMDB API, extracting relevant data, and transforming it into a format suitable for consumption by the frontend of the Movie App.
