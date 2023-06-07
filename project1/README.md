@@ -76,8 +76,6 @@ Give a high-level overview of the project purpose
 
 ✨ Improved Engagement: The high-fidelity wireframes and UI framework contribute to a visually appealing and engaging design. Users are more likely to spend time exploring the app, discovering movies of        interest, and interacting with the provided features, leading to increased user engagement.
 
-✨ Positive User Feedback: Testing and gathering feedback from users during the process ensures that the design changes are aligned with user expectations. User satisfaction is likely to improve as their pain points are addressed, resulting in positive reviews, increased user retention, and potentially attracting new users.
-
 ✨ Responsive and Accessible Design: The adoption of responsive design principles ensures that the Movie App is accessible and usable across various devices and screen sizes. Users can enjoy a consistent experience regardless of the device they use, contributing to a broader user base and improved accessibility.
 
 ✨ Efficient Project Management: The use of agile project management methodologies facilitates effective collaboration, adaptability, and iterative development. It allows for quick iterations, frequent feedback loops, and timely delivery of the improved Movie App, ensuring project success within the given timeframe. 
@@ -93,10 +91,30 @@ Give a high-level overview of the project purpose
 
 - Describe a situation where you demonstrated  this job function.
 
-- Summarize the actions you took to accomplish the goal. 
-
 ✨ I was assigned the task of hooking up the API address for the Movie App by utilizing the TMDB API. My primary responsibility was to integrate the TMDB API into the backend infrastructure, enabling the       application to fetch movie data and provide relevant information to the users.
 
+- Summarize the actions you took to accomplish the goal. 
+1.	Understanding the TMDB API:
+     •	Familiarized Myself with the TMDB API documentation, including endpoints, query parameters, and authentication requirements.
+ 	   •	Explored the available API functionalities, such as retrieving movie details, searching for movies, and fetching movie images.
+
+2. 	Integration with Backend Infrastructure:
+     •	Configured API authentication mechanisms, such as obtaining API keys and securely storing them within the backend application.
+     •	Implemented API endpoints that corresponded to the required functionalities of the Movie App, such as retrieving movie details, searching for movies, and fetching movie images.
+  
+ 3. Handling API Requests and Responses:
+     •	Developed code logic to handle incoming API requests, validating parameters, and ensuring proper error handling in case of invalid requests or API failures.
+     •	Processed the responses from the TMDB API, extracting relevant data, and transforming it into a format suitable for consumption by the frontend of the Movie App.
+     •	Optimized API calls to minimize response time and reduce unnecessary data transfers, ensuring efficient data retrieval from the TMDB API.
+  
 - Emphasize the results of this action for your team or your learning. 
+
+- The successful integration of the TMDB API into the Movie App's backend infrastructure yielded several positive outcomes:
+
+1. Movie Data Retrieval: Users of the Movie App can access comprehensive movie information, including details, ratings, reviews, and images, by leveraging the TMDB API's extensive database.
+2.	Enhanced Movie Search Functionality: The integration of the TMDB API enables powerful movie search capabilities within the Movie App, allowing users to find movies based on various criteria like title, genre, and release year.
+3.	Real-Time Data Updates: By leveraging the TMDB API, the Movie App can fetch the latest movie data, ensuring that users have access to up-to-date information and new releases.
+4.	Reduced Development Time: Integrating an established API like TMDB eliminates the need to build and maintain an extensive movie database from scratch, saving development time and effort.
+5.	Scalability and Reliability: Leveraging the TMDB API's infrastructure ensures a reliable and scalable solution for movie data management, handling increased user traffic and providing a seamless user experience.
 
 - Connect the competency to this project
