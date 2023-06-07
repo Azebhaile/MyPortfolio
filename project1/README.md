@@ -3,22 +3,22 @@
 Give a high-level overview of the project purpose
 - (*Situation*) Describe the application and why you created this program
 
- ✨ ✨ ✨ The Movies application is designed to provide users with a platform to explore and discover movies. The purpose of this project is to create a user-friendly web application that allows users to    search for movies, view their details, and switch between light and dark themes for a personalized experience.
+ ✨✨The Movies application is designed to provide users with a platform to explore and discover movies. The purpose of this project is to create a user-friendly web application that allows users to              search for movies, view their details, and switch between light and dark themes for a personalized experience.
 
 - (*Task*) Describe the overall structure of your application and the design process prior to building the program
 
 
-✨ ✨ ✨ The overall structure of the application follows a React-based architecture. Before building the program, the design process involved planning the user interface, including the home page, Movie Details page, and Navigation menu. The goal was to create a visually appealing and intuitive interface that allows users to easily search for movies and navigate through the application.
+✨✨ The overall structure of the application follows a React-based architecture. Before building the program, the design process involved planning the user interface, including the home page, Movie               Details page, and Navigation menu. The goal was to create a visually appealing and intuitive interface that allows users to easily search for movies and navigate through the application.
 
 - (*Action*) Explain the code you wrote to achieve your desired result
 
 
-✨ ✨ ✨  The code written for the application utilizes React components, including functional components and hooks such as useState and useEffect. Axios is used for making HTTP requests to fetch movie data from the TMDB API. React Router is employed for handling routing and rendering different components based on the URL path. The design is implemented using the React Bootstrap library, providing responsive and pre-styled components.
+✨✨ The code written for the application utilizes React components, including functional components and hooks such as useState and useEffect. Axios is used for making HTTP requests to fetch movie data           from the TMDB API. React Router is employed for handling routing and rendering different components based on the URL path. The design is implemented using the React Bootstrap library, providing            responsive and pre-styled components.
 
 - (*Result*) Showcase your final application with its functionality
 
 
-✨ ✨ ✨  The final application consists of a Home page that displays a movie list and a search bar for filtering movies. Clicking on a movie card opens the Movie Details page, showcasing additional information about the selected movie. Users can toggle between light and dark themes using the theme switch. The Navigation menu allows easy navigation between sections of the app. The application provides an engaging and user-friendly experience for movie exploration.
+✨✨ The final application consists of a Home page that displays a movie list and a search bar for filtering movies. Clicking on a movie card opens the Movie Details page, showcasing additional                   information about the selected movie. Users can toggle between light and dark themes using the theme switch. The Navigation menu allows easy navigation between sections of the app. The application           provides an engaging and user-friendly experience for movie exploration.
 
 - Include relevant screenshots
 - ????
@@ -91,20 +91,20 @@ and implement APIs.
 
 - Summarize the actions you took to accomplish the goal. 
 
-✨✨✨ I was assigned the task of hooking up the API address for the Movie App by utilizing the TMDB API. My primary responsibility was to integrate the TMDB API into the backend infrastructure, enabling the application to fetch movie data and provide relevant information to the users.
+✨✨ I was assigned the task of hooking up the API address for the Movie App by utilizing the TMDB API. My primary responsibility was to integrate the TMDB API into the backend infrastructure, enabling the application to fetch movie data and provide relevant information to the users.
 
 - Emphasize the results of this action for your team or your learning. 
 
-✨✨✨  Understanding the TMDB API:
+✨✨  Understanding the TMDB API:
 
 Familiarized Myself with the TMDB API documentation, including endpoints, query parameters, and authentication requirements. Explored the available API functionalities, such as retrieving movie details, searching for movies, and fetching movie images. 
 
-✨✨✨ Integration with Backend Infrastructure:
+✨✨ Integration with Backend Infrastructure:
 
 Integrated the TMDB API into the backend codebase, leveraging the appropriate programming language and frameworks (e.g., Node.js, Express) to handle API requests.
 Implemented API endpoints that corresponded to the required functionalities of the Movie App, such as retrieving movie details, searching for movies, and fetching movie images. Configured API authentication mechanisms, such as obtaining API keys and securely storing them within the backend application.
 
-✨✨✨  Handling API Requests and Responses:
+✨✨ Handling API Requests and Responses:
 
 Developed code logic to handle incoming API requests, validating parameters, and ensuring proper error handling in case of invalid requests or API failures.
 Processed the responses from the TMDB API, extracting relevant data, and transforming it into a format suitable for consumption by the frontend of the Movie App.
