@@ -97,6 +97,4 @@ Give a high-level overview of the project purpose
 
 - Emphasize the results of this action for your team or your learning. 
 
-✨ 
-
 - Connect the competency to this project
