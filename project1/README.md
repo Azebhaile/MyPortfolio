@@ -75,6 +75,7 @@ Describe a situation where you demonstrated this job function.
          • I was responsible for managing and deploying our app.
 
 Summarize the actions you took to accomplish the goal.
+
          • I audited the security, implemented protection measures, deployed on Netlify with continuous integration, tested thoroughly, and monitored the deployment process.
 
 Emphasize the results of this action for your team or you’re learning.
