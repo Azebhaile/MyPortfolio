@@ -1,6 +1,5 @@
 ## Project #1
 
-Give a high-level overview of the project purpose.
 
 Describe the application and why you created this program.
 
@@ -35,6 +34,7 @@ Include relevant screenshots
   • axios: 1.4.0
 
 Note any deployment tools as well.
+
 • Netlify
 
 • https://main--tourmaline-empanada-87bfb4.netlify.app/
