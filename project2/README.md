@@ -26,3 +26,6 @@ Give a high-level overview of the project purpose
 - Summarize the actions you took to accomplish the goal. 
 - Emphasize the results of this action for your team or your learning. 
 - Connect the competency to this project
+
+
+Note: The app has been deployed on  https://the-wizards-council.onrender.com/wizards

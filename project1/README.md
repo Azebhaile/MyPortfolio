@@ -1,122 +1,77 @@
 ## Project #1
 
-Give a high-level overview of the project purpose
-- (*Situation*) Describe the application and why you created this program
+Give a high-level overview of the project purpose.
 
- ✨The Movies application is designed to provide users with a platform to explore and discover movies. The purpose of this project is to create a user-friendly web application that allows users to                search for movies, view their details, and switch between light and dark themes for a personalized experience.
+Describe the application and why you created this program.
 
-- (*Task*) Describe the overall structure of your application and the design process prior to building the program
+• The Movies application is designed to provide users with a platform to explore and discover movies. The purpose of this project is to create a user-friendly web application that allows users to search for movies, view their details.
 
+Describe the overall structure of your application and the design process prior to building the program.
 
-✨ The overall structure of the application follows a React-based architecture. Before building the program, the design process involved planning the user interface, including the home page, Movie               Details page, and Navigation menu. The goal was to create a visually appealing and intuitive interface that allows users to easily search for movies and navigate through the application.
+• The overall structure of the application follows a React-based architecture. Before building the program, the design process involved planning the user interface, including the home page, Movie Details page, and Navigation menu. The goal was to create a visually appealing and intuitive interface that allows users to easily search for movies and navigate through the application.
 
-- (*Action*) Explain the code you wrote to achieve your desired result
+Explain the code you wrote to achieve your desired result.
 
+• I used React, a JavaScript library, to create the application's user interface components such as the search box, movie cards, navigation, and movie details. The application was deployed on Netlify, providing users with easy access to interact with its features.
 
-✨ The code written for the application utilizes React components, including functional components and hooks such as useState and useEffect. Axios is used for making HTTP requests to fetch movie data           from the TMDB API. React Router is employed for handling routing and rendering different components based on the URL path. The design is implemented using the React Bootstrap library, providing            responsive and pre-styled components.
+Showcase your final application with its functionality.
 
-- (*Result*) Showcase your final application with its functionality
+• The final application consists of a home page that displays a movie list and a search bar for filtering movies. Clicking on a movie card opens the Movie Details page, showcasing additional information about the selected movie. Users can toggle between light and dark themes using the theme switch. The Navigation menu allows easy navigation between sections of the app. The application provides an engaging and user-friendly experience for movie exploration.
 
-
-✨ The final application consists of a Home page that displays a movie list and a search bar for filtering movies. Clicking on a movie card opens the Movie Details page, showcasing additional                   information about the selected movie. Users can toggle between light and dark themes using the theme switch. The Navigation menu allows easy navigation between sections of the app. The application           provides an engaging and user-friendly experience for movie exploration.
-
-- Include relevant screenshots
-- ????
-
-
+Include relevant screenshots
 
 ## Technologies
-- List all technologies and versions here
 
-✨ React: The JavaScript library used for building the user interface.
-✨ React Router: A routing library for declarative routing and rendering of different components based on URL paths.
-✨ React Bootstrap: A library of pre-styled and responsive UI components for React applications.
-✨ axios: A popular HTTP client used for making API requests.
-✨ react-router-dom: A package that provides DOM bindings for React Router.
-     react-bootstrap: The Bootstrap library adapted for React, used for styling and layout of components.
-✨ Node.js: A JavaScript runtime environment used for running the application server.
-     npm: The package manager for Node.js, used for installing and managing project dependencies.
-✨ Visual Studio Code: A source code editor used for writing and editing the application code.
-✨ TMDB API: The application interacts with the TMDB (The Movie Database) API to fetch movie data.
+• react: 18.2.0
+• react-dom: 18.2.0
+• react-router-dom: 6.12.0
+• react-bootstrap: 2.7.4
+• bootstrap: 5.3.0
+• axios: 1.4.0
 
-- Include dependencies and versions
+Note any deployment tools as well.
+• Netlify
 
-✨ react: version X.X.X
-✨ react-dom: version X.X.X
-✨ react-router-dom: version X.X.X
-✨ react-bootstrap: version X.X.X
-✨ axios: version X.X.X
-✨ react-scripts: version X.X.X
-
-- Note any deployment tools as well
-✨ Netlify
+• https://main--tourmaline-empanada-87bfb4.netlify.app/
 
 ## Competencies
-### JF XX.XX
 
-- List the full text of the job function first
+JOB FUNCTION 2: Take a business or user problem,
+gather data to analyze the problem, and use prototyping tools to
+create a high-fidelity wireframe and UI framework, test the
+application, and use agile project management.
 
-✨✨ JOB FUNCTION 2: Take a business or user problem, 
-    gather data to analyze the problem, and use prototyping tools to 
-    create a high fidelity wireframe and UI framework, test the 
-    application,and use agile project management.
+• ### JF 2.4 Can create simple software designs to effectively communicate understanding of the program
 
-- Describe a situation where you demonstrated this job function.
+ Using prototyping tools, I create clear and concise software designs that effectively communicate the program's structure.
+• ### JF 2.6 Can translate wireframes into User Interfaces
 
-✨ I was responsible with improving the user experience of a Movie App. The current version lacks a user-friendly interface and requires enhancements to better engage users. My role involves taking the user    problem into account, gathering data to analyze the issues, and utilizing prototyping tools to create high-fidelity wireframes and a UI framework. You will test the application to validate the              improvements and follow an agile project management approach for efficient development.
+• I transformed wireframes into engaging and responsive user interfaces. By leveraging prototyping tools and graphic design software, I created visually appealing designs and implemented interactive elements.
 
-- Summarize the actions you took to accomplish the goal. 
+Describe a situation where you demonstrated this job function.
 
-✨ Gathering Data and Analyzing the Problem:
-✨ Prototyping and Creating High-Fidelity Wireframes
-✨ Designing UI Framework
+• I was responsible with improving the user experience of a Movie App. The current version lacks a user-friendly interface and requires enhancements to better engage users. My role involves taking the user problem into account, gathering data to analyze the issues, and utilizing prototyping tools to create high-fidelity wireframes and a UI framework.
 
-✨ Emphasize the results of this action for your team or your learning.
-        Enhanced User Experience: By addressing user problems and incorporating feedback, the redesigned interface provides an improved user experience. Users can navigate the app more intuitively, access           relevant movie information, and engage with the content more effectively.
+Summarize the actions you took to accomplish the goal.
 
-✨ Improved Engagement: The high-fidelity wireframes and UI framework contribute to a visually appealing and engaging design. Users are more likely to spend time exploring the app, discovering movies of        interest, and interacting with the provided features, leading to increased user engagement.
+• To enhance the user experience of the Movie App, I analyzed user problems, gathered data, and used prototyping tools to create high-fidelity wireframes and a UI framework.
 
-✨ Responsive and Accessible Design: The adoption of responsive design principles ensures that the Movie App is accessible and usable across various devices and screen sizes. Users can enjoy a consistent experience regardless of the device they use, contributing to a broader user base and improved accessibility.
+Emphasize the results of this action for your team or you’re learning.
 
-✨ Efficient Project Management: The use of agile project management methodologies facilitates effective collaboration, adaptability, and iterative development. It allows for quick iterations, frequent feedback loops, and timely delivery of the improved Movie App, ensuring project success within the given timeframe. 
+• By addressing user problems, the redesigned interface provides an improved user experience. Users can navigate the app more intuitively, access relevant movie information, and engage with the content more effectively.
 
-- Connect the competentcy to this project
+JOB FUNCTION 4: Manage and deploy applications and programs, conduct testing, and adhere to industry security standards.
 
-- List the full text of the job function first
+• ### JF 4.3 Is able to build, manage and deploy code into the relevant environment
 
-### JF XX.XX
+• By leveraging Netlify's powerful deployment capabilities, I successfully deployed and managed the Movie app, ensuring it adhered to industry standards and providing a secure and reliable user experience.
 
-✨✨ JOB FUNCTION 3: Apply the process of server-side development
-     including explaining algorithms, logic and data structures, 
-    can develop and maintain databases and codebases, and explain 
-    and implement APIs.
+Describe a situation where you demonstrated this job function.
+• I was responsible for managing and deploying our app.
 
-- Describe a situation where you demonstrated  this job function.
+Summarize the actions you took to accomplish the goal.
+• I audited the security, implemented protection measures, deployed on Netlify with continuous integration, tested thoroughly, and monitored the deployment process.
 
-✨ I was assigned the task of hooking up the API address for the Movie App by utilizing the TMDB API. My primary responsibility was to integrate the TMDB API into the backend infrastructure, enabling the       application to fetch movie data and provide relevant information to the users.
+Emphasize the results of this action for your team or you’re learning.
 
-- Summarize the actions you took to accomplish the goal. 
-1.	Understanding the TMDB API:
-     •	Familiarized Myself with the TMDB API documentation, including endpoints, query parameters, and authentication requirements.
- 	   •	Explored the available API functionalities, such as retrieving movie details, searching for movies, and fetching movie images.
-
-2. 	Integration with Backend Infrastructure:
-     •	Configured API authentication mechanisms, such as obtaining API keys and securely storing them within the backend application.
-     •	Implemented API endpoints that corresponded to the required functionalities of the Movie App, such as retrieving movie details, searching for movies, and fetching movie images.
-  
- 3. Handling API Requests and Responses:
-     •	Developed code logic to handle incoming API requests, validating parameters, and ensuring proper error handling in case of invalid requests or API failures.
-     •	Processed the responses from the TMDB API, extracting relevant data, and transforming it into a format suitable for consumption by the frontend of the Movie App.
-     •	Optimized API calls to minimize response time and reduce unnecessary data transfers, ensuring efficient data retrieval from the TMDB API.
-  
-- Emphasize the results of this action for your team or your learning. 
-
-- The successful integration of the TMDB API into the Movie App's backend infrastructure yielded several positive outcomes:
-
-1. Movie Data Retrieval: Users of the Movie App can access comprehensive movie information, including details, ratings, reviews, and images, by leveraging the TMDB API's extensive database.
-2.	Enhanced Movie Search Functionality: The integration of the TMDB API enables powerful movie search capabilities within the Movie App, allowing users to find movies based on various criteria like title, genre, and release year.
-3.	Real-Time Data Updates: By leveraging the TMDB API, the Movie App can fetch the latest movie data, ensuring that users have access to up-to-date information and new releases.
-4.	Reduced Development Time: Integrating an established API like TMDB eliminates the need to build and maintain an extensive movie database from scratch, saving development time and effort.
-5.	Scalability and Reliability: Leveraging the TMDB API's infrastructure ensures a reliable and scalable solution for movie data management, handling increased user traffic and providing a seamless user experience.
-
-- Connect the competency to this project
+• I implemented security measures, deployed on Netlify.
