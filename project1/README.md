@@ -5,7 +5,8 @@ Give a high-level overview of the project purpose.
 
 Describe the application and why you created this program.
 
-    • The Movies application is designed to provide users with a platform to explore and discover movies. The purpose of this project is to create a user-friendly web application that allows users to search       for movies, view their details.
+    • The Movies application is designed to provide users with a platform to explore and discover movies. The purpose of this project is to create a user-friendly web application that allows 
+        users to search for movies, view their details.
 
  Describe the overall structure of your application and the design process prior to building the program.
 
@@ -13,11 +14,14 @@ Describe the application and why you created this program.
 
 Explain the code you wrote to achieve your desired result.
 
-    • I used React, a JavaScript library, to create the application's user interface components such as the search box, movie cards, navigation, and movie details. The application was deployed on Netlify,          providing users with easy access to interact with its features.
+    • I used React, a JavaScript library, to create the application's user interface components such as the search box, movie cards, navigation, and movie details. The application was 
+        deployed on Netlify, providing users with easy access to interact with its features.
 
 Showcase your final application with its functionality.
 
-• The final application consists of a home page that displays a movie list and a search bar for filtering movies. Clicking on a movie card opens the Movie Details page, showcasing additional information        about the selected movie. Users can toggle between light and dark themes using the theme switch. The Navigation menu allows easy navigation between sections of the app. The application provides an          engaging and user-friendly experience for movie exploration.
+• The final application consists of a home page that displays a movie list and a search bar for filtering movies. Clicking on a movie card opens the Movie Details page, showcasing 
+    additional information about the selected movie. Users can toggle between light and dark themes using the theme switch. The Navigation menu allows easy navigation between 
+    sections of the app. The application provides an engaging and user-friendly experience for movie exploration.
 
 Include relevant screenshots.
 
