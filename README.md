@@ -6,7 +6,7 @@ This repository is a collection of some of my key learnings during my Thrive app
 
 - **Host Company**: Verizon
 - **Duration**: June, 2022 - June, 2023
-- **Link to Portfolio Website**:
+- **Link to Portfolio Website**: https://github.com/Azebhaile/MyPortfolio
 
 ## Portfolio Introduction
 
@@ -16,7 +16,7 @@ I am Azeb Haile, a passionate software developer apprentice. My GitHub portfolio
 
 - Why you do what you do
 
-I do what I do because I believe in the transformative power of technology. It has the ability to solve complex problems, enhance lives, and create meaningful connections. I am driven by the joy of crafting innovative solutions and making a positive impact in the world through my work.
+I do what I do because I am passionate about technology and its incredible potential to change the world. I believe in its ability to solve problems, improve lives, and bring people together. Creating innovative solutions and making a positive difference through my work brings me immense joy and fulfillment.
 
 - The teams you have worked on
 
