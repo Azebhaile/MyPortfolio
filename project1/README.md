@@ -4,7 +4,7 @@ Give a high-level overview of the project purpose.
 
 Describe the application and why you created this program
 
-   - The Movies application is designed to provide users with a platform to explore and discover movies. The purpose of this project is to create a user-friendly web application that allows 
+- The Movies application is designed to provide users with a platform to explore and discover movies. The purpose of this project is to create a user-friendly web application that allows 
       users to search for movies, view their details and manage their movie watchlist.
 
  Describe the overall structure of your application and the design process prior to building the program.
